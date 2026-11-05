@@ -140,17 +140,14 @@ Os arquivos otimizados e prontos para publicação serão gerados na pasta `dist
 
 ---
 
-## 🌐 Publicação na Vercel
-A aplicação é totalmente compatível com a Vercel:
-- **Framework Preset**: Vite
-- **Build Command**: `npm run build`
-- **Output Directory**: `dist`
-- **Environment Variables**:
-  - `VITE_SUPABASE_URL`
-  - `VITE_SUPABASE_PUBLISHABLE_KEY`
+## 🌐 Repositório e Links
+- **Repositório GitHub**: [https://github.com/Renato428PE/padariatech](https://github.com/Renato428PE/padariatech)
+- **Projeto Vercel**: `padariatech` (Team: `team_VNNBW7YFGTXLbUCsW9vpiZTj` / Renato Ramos)
+- **Supabase Backend**: `fuxsasvwvqivdwyxyawh` (PostgreSQL 17, US East)
 
 ---
 
 ## 🏷️ Versão do Projeto
 - **Versão**: `v1.0.0`
-- **Status**: Produção estável e testada.
+- **Tag**: `v1.0.0`
+- **Status**: Produção estável, testada e versionada.
